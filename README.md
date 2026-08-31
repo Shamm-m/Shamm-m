@@ -1,4 +1,6 @@
-<img width="736" height="414" alt="Image" src="https://github.com/user-attachments/assets/e6d0249b-dc9e-4b1a-b2fa-15446a9a4165" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e6d0249b-dc9e-4b1a-b2fa-15446a9a4165" width="100%">
+</p>
 
 <h3 align="center">✦ Shamm-m ✦</h3>
 
