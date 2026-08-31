@@ -1,3 +1,5 @@
+<img width="736" height="414" alt="Image" src="https://github.com/user-attachments/assets/e6d0249b-dc9e-4b1a-b2fa-15446a9a4165" />
+
 <h3 align="center">✦ Shamm-m ✦</h3>
 
 <p align="center"><em>Student in Health Sciences • Web Developer</em></p>
